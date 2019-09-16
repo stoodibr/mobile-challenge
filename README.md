@@ -1,8 +1,7 @@
 # Desafio mobile
 
-A idéia deste desafio é nos permitir avaliar melhor as habilidades de candidatos à vagas de desenvolvedor, de vários níveis.
-
-Este desafio deve ser feito por você em sua casa. O tempo limite é de sete dias.
+A ideia deste desafio é nos permitir avaliar melhor as habilidades de candidatos à vagas de desenvolvedor, de vários níveis.
+O tempo limite é de sete dias.
 
 ## Instruções de entrega do desafio
 
@@ -44,6 +43,8 @@ Você ganha mais pontos se:
 - fazer um app Universal, Tablets | Ipad | Iphone | Landscape | Portrait (Size Classes)
 - fazer cache de imagens. Ex: Picasso/Glide/SDWebImage/Kingfisher/AlamofireImage
 - utilizar alguma biblioteca de injeção de dependência. Ex: *Swinject*, *Dagger*, *GetIt*
+- utilizar *clean architecture*
+- utilizar *MVVM* ou *BLoC* 
 
 
 As sugestões de bibliotecas fornecidas são só um guideline, sinta-se a vontade para usar soluções diferentes e nos surpreender. O importante de fato é que os objetivos macros sejam atingidos.
