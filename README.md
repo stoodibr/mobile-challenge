@@ -28,7 +28,7 @@ Você pode se basear neste mockup para criar as telas mencionadas acima:
 Sua aplicação deve ter os seguintes critérios:
 
 - Android (Kotlin), iOS (Swift 5.0) ou Flutter (Dart 2.5)
-- Suporte as versões Android (API 16) e iOS 10.*
+- Suporte as versões Android (API 16) e/ou iOS 10.*
 - usar arquivos .gitignore no repositório
 - Layouts responsivos e otimizados
 - usar gestão de dependências no projeto. Ex: *Cocoapods*, *Pub*, *Gradle*
@@ -45,7 +45,7 @@ Você ganha mais pontos se:
 - utilizar alguma biblioteca de injeção de dependência. Ex: *Swinject*, *Dagger*, *GetIt*
 - utilizar *clean architecture*
 - utilizar *MVVM* ou *BLoC* 
-
+- Testes de *UI*
 
 As sugestões de bibliotecas fornecidas são só um guideline, sinta-se a vontade para usar soluções diferentes e nos surpreender. O importante de fato é que os objetivos macros sejam atingidos.
 
