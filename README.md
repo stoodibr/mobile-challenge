@@ -28,7 +28,7 @@ Você pode se basear neste mockup para criar as telas mencionadas acima:
 Sua aplicação deve ter os seguintes critérios:
 
 - Android (Kotlin), iOS (Swift 5.0) ou Flutter (Dart 2.5)
-- Suporte as versões Android (API 16) e/ou iOS 10.*
+- Suporte as versões Android (API 19) e/ou iOS 10.*
 - usar arquivos .gitignore no repositório
 - Layouts responsivos e otimizados
 - usar gestão de dependências no projeto. Ex: *Cocoapods*, *Pub*, *Gradle*
